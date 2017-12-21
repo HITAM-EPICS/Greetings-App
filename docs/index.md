@@ -60,3 +60,7 @@
 
 </RelativeLayout>
 ```
+
+### Layout
+
+![Greetings](Greetings.png)
