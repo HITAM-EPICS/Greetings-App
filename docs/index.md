@@ -1,6 +1,10 @@
 ## Greetings App
 
 
+### Layout
+
+![Greetings](Greetings.png)
+
 ### Layout Code
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -60,7 +64,3 @@
 
 </RelativeLayout>
 ```
-
-### Layout
-
-![Greetings](Greetings.png)
